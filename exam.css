@@ -1,0 +1,322 @@
+*{
+    margin: 0px;
+}
+.nav{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    background-color: antiquewhite;
+}
+.logo{
+    font-size: 50px;
+    margin-top: 1.5%;
+    margin-left: 15%;
+    color: blue;
+}
+.lt{
+    width: 40%;
+    height: 10vh;
+
+    display: flex;
+    
+}
+input{
+    width: 30%;
+    height: 3vh;
+    margin-left: 7%;
+    border-radius: 40px;
+    margin-top: 4%;
+    
+}
+.x{
+    margin-left: -7%;
+    margin-top: 5%;
+}
+.rt{
+    width: 55%;
+    height: 10vh;
+    display: flex;
+    justify-content: space-around;
+}
+.rt p{
+    margin-top: 4%;
+}
+.dot{
+    font-size: 10px;
+    color: red;
+    margin-left: 27%;
+    margin-top: -102%;
+}
+.rt1 img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-top: 35%;
+    margin-left: 25%;
+}
+.ltfs{
+    width:90%;
+    height: 61vh;
+    background-color: aqua;
+    margin-left: 6%;
+    margin-top: 4%;
+}
+.ltfs img{
+    width: 100%;
+    height: 22vh;
+}
+.ltfs h3{
+    color: brown;
+    margin-left: 5%;
+    line-height: 1.5;
+    margin-bottom: 7%;
+}
+.ltfs h2{
+    margin-left: 5%;
+    line-height: 2;
+}
+.ltfs p{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.ltfs span{
+    margin-left: 40%;
+}
+.ltfs hr{
+    margin-top: 6%;
+    border-color: antiquewhite;
+    border: 2px solid orange;
+}
+.vertical{
+    border-left: 2px solid orange;
+    height: 50px;
+    margin-left: 50%;
+    margin-top: -40px;
+}
+.ltfslt img{
+    font-size: 30px;
+    width: 10%;
+    height: 5vh;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+.ltfslt p{
+    margin-left: 25%;
+    margin-top: -8%;
+}
+.ltfsrt img{
+    font-size: 30px;
+    width: 20%;
+    height: 3vh;
+    margin-left: 13%;
+    margin-top: 12%;
+}
+.ltfsrt p{
+    margin-left: 40%;
+    margin-top: -15%;
+}
+.ltfs2{
+    width: 90%;
+    background-color: aqua;
+    height: 105vh;
+    margin-left: 6%;
+    margin-top: 4%;
+    display: flex;
+    flex-direction: column;
+}
+.ltfs2 h2{
+    margin-left: 8%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.ltfs2 img{
+    position: relative;
+    margin-left: 8%;
+    line-height: 1.5;
+   
+}
+.ltfs2 span{
+    position: relative;
+    margin-left: 5%;
+    top: -25%;
+    font-size: 18px;
+    line-height: 1.5;
+}
+.ltfs2 hr{
+    border-color: black;
+}
+.ltfs22{
+    margin-left: 28%;
+    margin-top: 3%;
+    color: blue;
+}
+.middle{
+    width: 60%;
+    height: 16.2vh;
+    background-color: yellow;
+    margin-top: 3%;
+    position: relative;
+}
+
+.mainContainer{
+    width: 100%;
+    display:flex;
+}
+.middle img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+.middle span{
+    margin-left: 2%;
+    position: absolute;
+    top: 20%;
+}
+.butt{
+    background-color: white;
+    width: 25%;
+    height:8vh;
+    position: relative;
+    border:none;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    background-color: antiquewhite;
+}
+.butt1{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+   
+}
+.butt2{
+    display: flex;
+}
+.butt:hover{
+    background-color: blue;
+}
+.right{
+    width: 40%;
+    height: 15vh;
+}
+.right1{
+    background-color: bisque;
+    width: 90%;
+    height: 52vh;
+    margin-left: 5%;
+    /* position: relative; */
+}
+
+.right1 h3{
+    position: relative;
+    top: 8%;
+    left: 5%;
+    bottom: 15%;
+
+}
+.h3a{
+    margin-bottom: 14%;
+}
+.right1 h4{
+    margin-top: 6%;
+    margin-left: 5%;
+}
+.right1 span{
+    margin-left: 8%;
+}
+.right1 p{
+    margin-left: 5%;
+}
+.pa{
+    color: blue;
+    margin-top: 13%;
+}
+.right5{
+    background-color: bisque;
+    width: 90%;
+    height: 35vh;
+    margin-left: 5%;
+    margin-top: 8%;
+    position: relative;
+}
+h6{
+    position: absolute;
+    top: 5%;
+    left: 45%;
+}
+.right5p{
+    position: absolute;
+    top: 13%;
+    left: 5%;
+}
+.right5 img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.nine{
+    width: 45%;
+    justify-content: space-around;
+    display: flex;
+    position: relative;
+    top: 25%;
+    left: 23%;
+}
+.pad{
+    margin-top: 38%;
+    margin-left: 5%;
+}
+.right5 span{
+    position: relative;
+    top: -8%;
+    left: 70%;
+    
+}
+button{
+    border-radius: 20px;
+}
+.ten{
+    width: 75%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+    margin-left: 11%;
+}
+.eleven{
+    width: 75%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: -3%;
+    margin-left: 11%;
+
+
+}
+.twelve i{
+    font-size: 15px;
+    margin-top: 5%;
+}
+.twelve p{
+    font-size: 15px;
+}
+.line {
+    border: 0px solid black;
+    margin-top: 5%;
+    margin-right: 28%;
+    width: 80%;
+    
+}
+.line p{
+    margin-top: -2.5%;
+    margin-left: 450px;
+}
+.thirteen span{
+    margin-top: 18%;
+    margin-left: 10%;
+}
+.ltfscircle img{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin-top: -70%;
+}
